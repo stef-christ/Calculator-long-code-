@@ -27,7 +27,7 @@
         android:inputType="numberDecimal"
         android:paddingLeft="20dp"
         android:paddingRight="20dp"
-        android:text="0" />
+        android:visibility="visible" />
 
     <LinearLayout
         android:layout_width="match_parent"
